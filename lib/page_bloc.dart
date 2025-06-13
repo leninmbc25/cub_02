@@ -13,7 +13,7 @@ class CounterBloc2 extends Bloc<CounterEvent, String> {
         'Bob',
         'Charlie',
         'Diana',
-        'Ethan',
+        'Lenin',
         'Fiona',
         'George',
         'Hannah',
